@@ -1,0 +1,34 @@
+.idea/
+.vscode/
+*.pyc
+diagrams/
+list - backup/
+outputs/
+raw/
+pytorch-i3d/
+informe_latex/
+anaconda_project/
+__pycache__/
+.DS_Store
+xd-violence.py
+yolo*.pt
+# Jupyter Notebook checkpoints
+.ipynb_heckpoint/   
+test_videos/
+list/
+# Videos (todas las carpetas, case-insensitive)
+*.[Mm][Pp]4
+*.[Mm]4[Vv]
+*.[Mm][Oo][Vv]
+*.[Aa][Vv][Ii]
+*.[Mm][Kk][Vv]
+*.[Ww][Ee][Bb][Mm]
+*.[Tt][Ss]
+*.[Mm]2[Tt][Ss]
+*.[Mm][Tt][Ss]
+*.[Mm][Pp][Ee][Gg]
+*.[Mm][Pp][Gg]
+*.[Ff][Ll][Vv]
+*.[Ww][Mm][Vv]
+*.[Oo][Gg][Vv]
+*.[3][Gg][Pp]
