@@ -12,10 +12,10 @@ __pycache__/
 .DS_Store
 xd-violence.py
 yolo*.pt
+list/
 # Jupyter Notebook checkpoints
 .ipynb_heckpoint/   
 test_videos/
-list/
 # Videos (todas las carpetas, case-insensitive)
 *.[Mm][Pp]4
 *.[Mm]4[Vv]
